@@ -15,7 +15,7 @@
     "@supabase/ssr": "^0.8.0",
     "@supabase/supabase-js": "^2.89.0",
     "@trigger.dev/react-hooks": "4.3.2",
-    "@trigger.dev/sdk": "4.3.2",
+    "@trigger.dev/sdk": "4.5.16",
     "ai": "^5.0.121",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
